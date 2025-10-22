@@ -4,7 +4,7 @@ fetch('').then(response => response.json())
     .then(data => {
 
         const cards = document.getElementById('cardName');
-        data.projects.forEach(idea => {
+        data.games.forEach(idea => {
             const card = document.createElement('div');
             cards.textContent = `${idea.name}, ${idea.description}`;
             .appendChild(cards);
