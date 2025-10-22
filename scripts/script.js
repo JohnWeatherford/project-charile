@@ -8,7 +8,7 @@ fetch('https://znasser46.github.io/project-charile/gameInfo.json').then(response
             console.log(game);
             const card = document.createElement('div');
             card.textContent = `${game.name}, ${game.description}`;
-            .appendChild(card);
+            cards.appendChild(card);
         });
     })
     .catch(error => console.error('Error fetching app ideas:', error));
