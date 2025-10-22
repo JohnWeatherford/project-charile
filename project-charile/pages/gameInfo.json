@@ -45,10 +45,10 @@
             "img": "https://sweetiesyvi.github.io/ProjectBravo/images/ClickClickGameSnippet.png"
         },
         {
-            "name": "#",
-            "repo": "#",
-            "app": "#",
-            "img": "#"
+            "name": "Emoji Clicker",
+            "repo": "https://github.com/haydenknight88/knight-project-bravo",
+            "app": "https://haydenknight88.github.io/knight-project-bravo/",
+            "img": "https://github.com/haydenknight88/haydenknight88/blob/main/images/emojiClicker-screenshot.png"
         },
         {
             "name": "#",
@@ -111,4 +111,5 @@
             "img": "#"
         }
     ]
+
 }
