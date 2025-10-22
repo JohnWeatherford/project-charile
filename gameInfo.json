@@ -1,7 +1,7 @@
 {
     "generatedAt": "2025-10-15",
     "audience": "Beginner to intermediate web development class",
-    "projects": [
+    "games": [
         {
             "name": "Newspaper Delivery",
             "repo": "https://github.com/ChickenAlfredo1121/ProjectBravo",
@@ -112,3 +112,4 @@
         }
     ]
 }
+
