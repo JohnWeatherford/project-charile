@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-fetch('').then(response => response.json())
+fetch('https://znasser46.github.io/project-charile/gameInfo.json').then(response => response.json())
     .then(data => {
 
         const cards = document.getElementById('cardName');
