@@ -93,7 +93,7 @@
         {
             "name": "Fortune Clicker",
             "repo": "https://github.com/EDMullins/FortuneClicker",
-            "app": "https://edmullins.github.io/FortuneClicker/",
+            "app": "https://edmullins.github.io/FortuneClicker/"
         },
         {
             "name": "#",
@@ -103,6 +103,7 @@
         }
     ]
 }
+
 
 
 
