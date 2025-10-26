@@ -2,9 +2,15 @@
 
 h1 {
   font-family: "Roboto", sans-serif;
-    color: #B35900; 
+  background-color: white;
+  color: #222; 
   margin: 0.5rem 0;
 
+}
+
+h1 {
+  color: #b3500;
+  text-align: center;
 }
 
 .project_main,
@@ -57,5 +63,6 @@ a {
   
 
 }
+
 
 
