@@ -2,7 +2,9 @@
 
 h1 {
   font-family: "Roboto", sans-serif;
-  color: orange
+    color: #B35900; 
+  margin: 0.5rem 0;
+
 }
 
 .project_main,
@@ -55,4 +57,5 @@ a {
   
 
 }
+
 
