@@ -13,17 +13,42 @@ h1 {
   color: orange;
 }
 
+#cardset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
  .cards {
     display: flex;
     flex-direction: column;
     border: 2px;
     border-style: solid;
     border-color: black;
+    width: 750px;
+    align-items: center;
+    
  }
-/* .cards a {
-    display: block;
-} */
+
 .gameImg {
     height: 350px;
     width: 600px;
+}
+
+.favoriteButton {
+  background-color: rgb(33, 75, 239);
+  width: 120px;
+  border-radius: 5px;
+  color: white;
+}
+
+.favorited {
+  width: 120px;
+  border-radius: 5px;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  
 }
