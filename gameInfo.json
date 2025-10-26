@@ -18,7 +18,7 @@
             "name": "Reaction time",
             "repo": "https://github.com/Jcalvert22/project-bravo",
             "app": "https://jcalvert22.github.io/project-bravo/",
-            "img": "https://github.com/Jcalvert22/project-bravo/blob/main/img/game-thumb.png"
+            "img": "https://jcalvert22.github.io/project-bravo/img/game-thumb.png"
         },
         {
             "name": "Berry Picker",
@@ -60,19 +60,19 @@
             "name": "Memory Card",
             "repo": "https://github.com/nhu-tran1105/Bravo",
             "app": "https://nhu-tran1105.github.io/Bravo/",
-            "img": "https://github.com/nhu-tran1105/Bravo/blob/main/images/game_thumb.png"
+            "img": "https://nhu-tran1105.github.io/Bravo/images/game_thumb.png"
         },
         {
             "name": "Memory Card Game",
             "repo": "https://github.com/Kise1205/urban-disco-bravo",
             "app": "https://kise1205.github.io/urban-disco-bravo/",
-            "img": "Kise1205/urban-disco-bravo#4"
+            "img": "https://private-user-images.githubusercontent.com/195699673/504251222-3619828f-89bc-4135-851c-76226c5f7a7b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1MDg2NDAsIm5iZiI6MTc2MTUwODM0MCwicGF0aCI6Ii8xOTU2OTk2NzMvNTA0MjUxMjIyLTM2MTk4MjhmLTg5YmMtNDEzNS04NTFjLTc2MjI2YzVmN2E3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNlQxOTUyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzVlYzYwYjNkMjBjYzU5N2UzZjAzYTc2NDExMjk3ZGJmMjRmNGNlNWJmNDVlZjgzOTIxNDcxNDJkYzliNjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IfAADHSszUqId4ns57T44pg4zb18Pk_hUMCfsV15X7c"
         },
         {
             "name": "Suit Sorter A Tiny Card Sorting Game",
             "repo": "https://github.com/Saimon215/a-tiny-game",
             "app": "https://saimon215.github.io/a-tiny-game/",
-            "img": "https://github.com/Saimon215/a-tiny-game/blob/main/assets/screenshot-game.png"
+            "img": "https://saimon215.github.io/a-tiny-game/assets/screenshot-game.png"
         },
         {
             "name": "Snap Test",
@@ -88,7 +88,7 @@
             "name": "ZN Matching Game",
             "repo": "https://github.com/znasser46/zn_matching_game",
             "app": "https://znasser46.github.io/zn_matching_game/",
-            "img": "https://github.com/znasser46/znasser46/blob/main/docs/images/game_screenshot.png"
+            "img": "https://znasser46.github.io/znasser46/images/game_screenshot.png"
         },
         {
             "name": "Fortune Clicker",
@@ -98,6 +98,7 @@
         
     ]
 }
+
 
 
 
