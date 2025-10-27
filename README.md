@@ -1,5 +1,5 @@
 ## The Best Team:
-#Team Members
+Team Members:
 Hayden Knight Profile link: https://github.com/haydenknight88  
 Zack Nasser Profile link: https://github.com/znasser46.  
 John Weatherford Profile link: https://github.com/JohnWeatherford  
@@ -7,8 +7,7 @@ John Weatherford Profile link: https://github.com/JohnWeatherford
 ## Description and Overview:
 Project charlie: Deployed website that creates a collection of all games created in project bravo.
 
-## USER STORY
-
+## USER STORY:
 AS an group of gamers  
 We want to create a collect of simple web games  
 So that we can easily find them.  
