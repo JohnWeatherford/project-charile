@@ -15,7 +15,14 @@ h1 {
   margin: 0.5rem 0;
 }
 
-  
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #B35900;   
+  background-color: #ffffff;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
 .project_main,
 .blog_main,
 .resource_main {
@@ -67,6 +74,7 @@ a {
   
 
 }
+
 
 
 
