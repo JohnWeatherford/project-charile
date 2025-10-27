@@ -3,7 +3,7 @@
 body{
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  color: #222222; /* readable on white */
+  color: #222222;
   margin: 0;
 }
 
@@ -38,8 +38,8 @@ h1 {
     border-color: black;
     width: 750px;
     align-items: center;
-   background-color: #333333;
-  color: #ffffff
+    background-color: #333333;
+    color: #ffffff
     
  }
 
@@ -67,6 +67,7 @@ a {
   
 
 }
+
 
 
 
